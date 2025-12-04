@@ -21,7 +21,7 @@ The two included projects are:
 ---
 
 <details>
-<summary><h2>📂Heuristics for a capacitated facility location problem with a quadratic objective function</h2></summary>
+<summary><h3>📂Heuristics for a capacitated facility location problem with a quadratic objective function</h3></summary>
 
 This project contains the code used in both M. Schmidt's completed master thesis and the article **The Balanced Facility Location Problem: Complexity and Heuristics** by M. Schmidt and B. Singh published in the [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2024.0693). We provide the implementations of all the algorithms and heuristics discussed in the article as well as the instances we use to test our heuristics on.
 
@@ -87,7 +87,7 @@ Similarly, to run the `close greedy` algorithm, or the BFLP and BUAP models, jus
 
 
 <details>
-<summary><h2>📂Preferential access and fairness in waste management</h2></summary>
+<summary><h3>📂Preferential access and fairness in waste management</h3></summary>
 
 This project is based on the theory and application of quadratic optimization models within the context of undesirable facility location problems. All data and code for the associated papers are provided in this repository.
 

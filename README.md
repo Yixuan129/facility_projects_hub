@@ -15,11 +15,13 @@ The two included projects are:
    - [Repository content](#repository-content)
    - [Example](#%EF%B8%8Fexample)
 
-2. [Preferential access and fairness in waste management](#%EF%B8%8F2-preferential-access-and-fairness-in-waste-management)
+2. [Preferential access and fairness in waste management](#2-preferential-access-and-fairness-in-waste-management)
    - [Repository content](#repository-content-1)
    - [Requirements to run code](#%EF%B8%8Frequirements-to-run-code)
 ---
-# 📘1. Heuristics for a capacitated facility location problem with a quadratic objective function
+
+<details>
+<summary><h2>📂Heuristics for a capacitated facility location problem with a quadratic objective function</h2></summary>
 
 This project contains the code used in both M. Schmidt's completed master thesis and the article **The Balanced Facility Location Problem: Complexity and Heuristics** by M. Schmidt and B. Singh published in the [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2024.0693). We provide the implementations of all the algorithms and heuristics discussed in the article as well as the instances we use to test our heuristics on.
 
@@ -81,8 +83,11 @@ We provide a short concrete example of how to run this code in the `main.py` fil
 
 Similarly, to run the `close greedy` algorithm, or the BFLP and BUAP models, just copy-paste the corresponding get_ command as we explained above into the main file and run it. 
 
+</details>
 
-# ♻️2. Preferential access and fairness in waste management
+
+<details>
+<summary><h2>📂Preferential access and fairness in waste management</h2></summary>
 
 This project is based on the theory and application of quadratic optimization models within the context of undesirable facility location problems. All data and code for the associated papers are provided in this repository.
 
@@ -137,5 +142,6 @@ The following open-source Python packages are required:
 
 Make sure these packages are installed and accessible before running the scripts.
 
----
+</details>
+
 

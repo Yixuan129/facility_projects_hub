@@ -1,4 +1,4 @@
-# Facility Location Projects Hub
+# 🎯Facility Location Projects Hub
 
 This repository consolidates two independent research projects centered on facility location, quadratic optimization, resource allocation, and fairness.  
 
@@ -8,14 +8,24 @@ The two included projects are:
 2. **Preferential access and fairness in waste management**
 
 ---
+## 📄 Table of Contents
 
-# 1. Heuristics for a capacitated facility location problem with a quadratic objective function
+1. [Heuristics for a capacitated facility location problem with a quadratic objective function](#1-heuristics-for-a-capacitated-facility-location-problem-with-a-quadratic-objective-function)
+   - [Requirements for running the code](#requirements-for-running-the-code)
+   - [Repository content](#repository-content)
+   - [Example](#example)
+
+2. [Preferential access and fairness in waste management](#2-preferential-access-and-fairness-in-waste-management)
+   - [Repository content](#repository-content-1)
+   - [Requirements to run code](#requirements-to-run-code)
+---
+# 📘1. Heuristics for a capacitated facility location problem with a quadratic objective function
 
 This project contains the code used in both M. Schmidt's completed master thesis and the article **The Balanced Facility Location Problem: Complexity and Heuristics** by M. Schmidt and B. Singh published in the [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2024.0693). We provide the implementations of all the algorithms and heuristics discussed in the article as well as the instances we use to test our heuristics on.
 
 ---
 
-## Requirements for running the code
+## ⚙️Requirements for running the code
 
 Before cloning the code, make sure you have [Git Large File Storage (Git LFS)](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) installed. Please see instructions for downloading and installing Git LFS on the linked website. 
 
@@ -37,7 +47,7 @@ Further, before running the code, make sure you have the below installed and lin
 
 ---
 
-## Repository content
+## 📂Repository content
 
 Please refer to the preprint for the terminology. The repository is structured as follows:
 
@@ -65,14 +75,14 @@ users_and_facs_df, travel_dict, users, facs = load_an_instance(1, False)
 
 ---
 
-## Example
+## ▶️Example
 
 We provide a short concrete example of how to run this code in the `main.py` file. To run the file, make sure you have navigated to the appropriate repository folder in your terminal. Then, run:```python3 ./heuristics_and_mips/main.py```. By default, we run the `open greedy` algorithm on Instance 1. The algorithm tests out how different values for the parameters $n_c$ and $d$ perform across different budgets. The results for the BFLP MIP for this instance are saved in the file ```instance_1_BFLP_MIP.json``` in the `own_results` folder. 
 
 Similarly, to run the `close greedy` algorithm, or the BFLP and BUAP models, just copy-paste the corresponding get_ command as we explained above into the main file and run it. 
 
 
-# 2. Preferential access and fairness in waste management
+# ♻️2. Preferential access and fairness in waste management
 
 This project is based on the theory and application of quadratic optimization models within the context of undesirable facility location problems. All data and code for the associated papers are provided in this repository.
 
@@ -82,7 +92,7 @@ For the motivation of this project, see and cite the published [article](https:/
 
 ---
 
-## Repository content
+## 📂Repository content
 
 The repository contains the following content:
 
@@ -117,7 +127,7 @@ The repository contains the following content:
 
 ---
 
-## Requirements to run code
+## ⚙️Requirements to run code
 
 The following open-source Python packages are required:
 

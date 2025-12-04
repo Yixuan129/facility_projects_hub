@@ -11,13 +11,13 @@ The two included projects are:
 ## 📄 Table of Contents
 
 1. [Heuristics for a capacitated facility location problem with a quadratic objective function](#1-heuristics-for-a-capacitated-facility-location-problem-with-a-quadratic-objective-function)
-   - [Requirements for running the code](#requirements-for-running-the-code)
+   - [Requirements for running the code](#%EF%B8%8Frequirements-for-running-the-code)
    - [Repository content](#repository-content)
-   - [Example](#example)
+   - [Example](#%EF%B8%8Fexample)
 
-2. [Preferential access and fairness in waste management](#2-preferential-access-and-fairness-in-waste-management)
+2. [Preferential access and fairness in waste management](#%EF%B8%8F2-preferential-access-and-fairness-in-waste-management)
    - [Repository content](#repository-content-1)
-   - [Requirements to run code](#requirements-to-run-code)
+   - [Requirements to run code](#%EF%B8%8Frequirements-to-run-code)
 ---
 # 📘1. Heuristics for a capacitated facility location problem with a quadratic objective function
 

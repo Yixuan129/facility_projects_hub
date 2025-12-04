@@ -10,18 +10,18 @@ The two included projects are:
 ---
 ## 📄 Table of Contents
 
-1. [Heuristics for a capacitated facility location problem with a quadratic objective function](#1-heuristics-for-a-capacitated-facility-location-problem-with-a-quadratic-objective-function)
-   - [Requirements for running the code](#%EF%B8%8Frequirements-for-running-the-code)
-   - [Repository content](#repository-content)
-   - [Example](#%EF%B8%8Fexample)
+1. Heuristics for a capacitated facility location problem
+   - Requirements for running the code
+   - Repository content
+   - Example
 
-2. [Preferential access and fairness in waste management](#2-preferential-access-and-fairness-in-waste-management)
-   - [Repository content](#repository-content-1)
-   - [Requirements to run code](#%EF%B8%8Frequirements-to-run-code)
+2. Preferential access and fairness in waste management
+   - Repository content
+   - Requirements to run code
+
 ---
-
 <details>
-<summary><h3>📂Heuristics for a capacitated facility location problem with a quadratic objective function</h3></summary>
+<summary><h2>📂Heuristics for a capacitated facility location problem with a quadratic objective function</h2></summary>
 
 This project contains the code used in both M. Schmidt's completed master thesis and the article **The Balanced Facility Location Problem: Complexity and Heuristics** by M. Schmidt and B. Singh published in the [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2024.0693). We provide the implementations of all the algorithms and heuristics discussed in the article as well as the instances we use to test our heuristics on.
 
@@ -49,7 +49,7 @@ Further, before running the code, make sure you have the below installed and lin
 
 ---
 
-## 📂Repository content
+## 🗂️Repository content
 
 Please refer to the preprint for the terminology. The repository is structured as follows:
 
@@ -87,7 +87,7 @@ Similarly, to run the `close greedy` algorithm, or the BFLP and BUAP models, jus
 </details>
 
 <details>
-<summary><h3>📂Preferential access and fairness in waste management</h3></summary>
+<summary><h2>📂Preferential access and fairness in waste management</h2></summary>
 
 This project is based on the theory and application of quadratic optimization models within the context of undesirable facility location problems. All data and code for the associated papers are provided in this repository.
 
@@ -97,7 +97,7 @@ For the motivation of this project, see and cite the published [article](https:/
 
 ---
 
-## 📂Repository content
+## 🗂️Repository content
 
 The repository contains the following content:
 

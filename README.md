@@ -83,8 +83,8 @@ We provide a short concrete example of how to run this code in the `main.py` fil
 
 Similarly, to run the `close greedy` algorithm, or the BFLP and BUAP models, just copy-paste the corresponding get_ command as we explained above into the main file and run it. 
 
-</details>
 
+</details>
 
 <details>
 <summary><h3>📂Preferential access and fairness in waste management</h3></summary>

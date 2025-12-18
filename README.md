@@ -1,4 +1,4 @@
-# 🎯Facility Location Projects Hub
+# 🎯Facility Projects Hub
 
 This repository consolidates two independent research projects centered on facility location, quadratic optimization, resource allocation, and fairness.  
 
